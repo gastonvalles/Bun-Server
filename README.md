@@ -1,4 +1,5 @@
-# bun-server
+# Bun Server
+![bun](img/bun.svg)
 
 To install dependencies:
 
